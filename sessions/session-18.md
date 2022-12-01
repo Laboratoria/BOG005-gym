@@ -32,6 +32,7 @@ teniendo en cuenta la experiencia vivida y los objetivos del gimnasio.
 - 4️⃣ Dificultad para escribir y ejecutar código desde cero (sin plataformas)
 - 5️⃣ Kahoot ¿Cómo lo mejoramos?
 - 6️⃣ Algunas estudiantes presentan desafíos para analizara lógicamente los ejercicios
+- 📝 [FigJam](https://www.figma.com/file/zZn9Gz9Hd78EWAAYiiwpBy/Retro-Gym?node-id=0%3A1&t=lPOzKFSDtThtZMG0-1)
 
 ### Dinámica [~60 min]
 
