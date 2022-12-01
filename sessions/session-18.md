@@ -126,6 +126,6 @@ Nos separaremos en 6 squads en salas de Zoom.
 
 - Nos juntamos todas para tomarnos una fotos de despedida 📸
 
-## 3) Feedback
+## 3) Cierre
 
-[Formulario](https://forms.gle/fahX7osKywgBJFWq6)
+[Menti](https://www.menti.com/alytse1uun3p)
